@@ -1,14 +1,16 @@
+<!-- Typing Effect (Centered) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Koteswara+Rao;Full+Stack+Developer+%7C+Java+Enthusiast;Always+Learning+%E2%9C%8C%EF%B8%8F+Always+Building" alt="Typing SVG" />
 </p>
 
+<!-- Optional waving hand emoji (but already in typing effect) -->
+<!-- You can remove this line if you like -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Hand" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 </p>
 
-<p align="center">
-  ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Koteswarrao2003.Koteswarrao2003)
-</p>
+<!-- Profile Views - this MUST be plain markdown, NOT wrapped in <p> -->
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Koteswarrao2003.Koteswarrao2003)
 
 ---
 
