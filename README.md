@@ -1,10 +1,9 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Hand" /> I'm Koteswara Rao
 
-### I'm a passionate Full Stack Developer.
-
 ## 👀 Profile Views
-
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Koteswarrao2003.Koteswarrao2003)
+
+### I'm a passionate Full Stack Developer.
 
 🌱 After gaining solid experience as a Full Stack Developer, I am excited to apply my skills in real-world projects.<br>
 I love crafting both client-side and server-side components of web applications.<br>
