@@ -57,5 +57,5 @@ Checkout my portfolio: [kkoti.netlify.app](https://kkoti.netlify.app/)
 </p>
 
 ---
-
-Looking forward to connecting with fellow developers and tech enthusiasts! 🚀
+🤝 Let's collaborate and bring ideas to life! 💡
+Looking forward to connecting with fellow developers and tech enthusiasts!
