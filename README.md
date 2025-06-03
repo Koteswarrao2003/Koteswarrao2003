@@ -2,6 +2,10 @@
 
 ### I'm a passionate Full Stack Developer.
 
+## 👀 Profile Views
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Koteswarrao2003.Koteswarrao2003)
+
 🌱 After gaining solid experience as a Full Stack Developer, I am excited to apply my skills in real-world projects.<br>
 I love crafting both client-side and server-side components of web applications.<br>
 Currently, I’m open to roles in Java, Web, Backend, and Full Stack Development.
