@@ -5,7 +5,6 @@
 🌱 After gaining solid experience as a Full Stack Developer, I am excited to apply my skills in real-world projects.
 I love crafting both client-side and server-side components of web applications.
 Currently, I’m open to roles in Java, Web, Backend, and Full Stack Development.
----
 
 ## 🔭 Skills & Tech Stack
 
