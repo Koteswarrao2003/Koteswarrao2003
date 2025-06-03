@@ -1,4 +1,4 @@
-# Hi <p> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Waving Hand" /></p> I'm Koteswara Rao
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Waving Hand" /> I'm Koteswara Rao
 
 ### I'm a passionate Full Stack Developer.
 
