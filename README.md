@@ -22,11 +22,13 @@
 ### 🚀 Skills & Tech Stack
 
 <p align="center">
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
   <img alt="MVC" src="https://img.shields.io/badge/MVC-007ACC?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -38,7 +40,7 @@
 ### 📁 Projects
 
 - 🔗 GitHub: [github.com/Koteswarrao2003](https://github.com/Koteswarrao2003)  
-- 🌐 Portfolio: [kkoti.netlify.app](https://kkoti.netlify.app/)
+- 🌐 Portfolio: [kotidev.netlify.app](https://kotidev.netlify.app/)
 
 ---
 
@@ -53,7 +55,7 @@
 
 ### 💬 Ask Me About
 
-`HTML5` `CSS3` `JavaScript` `Oracle` `Java` `Maven` `MVC` `Git` `GitHub`
+`C` `Java` `HTML5` `CSS3` `JavaScript` `React.js` `Oracle`  `Maven` `MVC` `Git` `GitHub`
 
 ---
 
